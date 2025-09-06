@@ -1,0 +1,29 @@
+[
+    {
+        "student_id": "001",
+        "name": "Alice",
+        "age": 20,
+        "course": "Python Programming",
+        "email": "alice@school.com",
+        "created_at": "2025-09-06 11:39:04",
+        "updated_at": "2025-09-06 11:45:41"
+    },
+    {
+        "student_id": "002",
+        "name": "John",
+        "age": 22,
+        "course": "Java Programming",
+        "email": "john@school.com",
+        "created_at": "2025-09-06 11:47:24",
+        "updated_at": "2025-09-06 11:47:24"
+    },
+    {
+        "student_id": "003",
+        "name": "Nora",
+        "age": 25,
+        "course": "Python Programming",
+        "email": "nora@school.com",
+        "created_at": "2025-09-06 14:18:55",
+        "updated_at": "2025-09-06 14:18:55"
+    }
+]
